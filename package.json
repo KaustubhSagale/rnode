@@ -1,0 +1,14 @@
+{
+  "name": "ass_3_a",
+  "version": "1.0.0",
+  "description": "This is wad assignment_ 3 Part_a",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
